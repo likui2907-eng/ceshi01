@@ -1,1 +1,25 @@
-dfgsdgd
+{
+  "main_url": "https://591daigou.com/",
+  "backup_urls": [
+    "https://www.baidu.com/",
+    "http://n26n.com",
+"http://693369.xyz",
+"http://v3cu.com",
+"http://473374.xyz",
+"http://tiao88.shop",
+"http://nerc.top",
+"http://usfe.top",
+"http://globalsojourn.top",
+"http://applefly.top",
+"http://verifysegate.com",
+"http://qasqu.top",
+    "https: //www.huanqiu.com/"
+  ],
+  "version": 1,
+  "update_time": "2025-12-22T12:00:00Z"
+    "config_sources": [
+    "https://备用服务器1.com/config.json",
+    "https://gitee.com/user/repo/raw/master/config.json",
+    "https://备用服务器2.com/config.php"
+  ]
+}
